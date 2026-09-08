@@ -6,8 +6,8 @@ Open the file in an IDE with Python 3 support, and execute the file.
 ## Input Needed
 The lengths of the opposite and adjacent of the right triangle.
 ## Sample Output
-`
-Hello! Welcome to the Hypotenuse Finder for a right triangle!
+
+`Hello! Welcome to the Hypotenuse Finder for a right triangle!
 
 Enter the length of side A:
 
@@ -17,8 +17,7 @@ Enter the length of side B:
 
 4
 
-The length of the hypotenuse is 5.00 (to 2 decimal places). Bye!
-`
+The length of the hypotenuse is 5.00 (to 2 decimal places). Bye!`
 ## Author
 Name: Luoang, Kyzen Mikko
 Section: 8 - Camia
