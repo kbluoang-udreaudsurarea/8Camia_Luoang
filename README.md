@@ -11,7 +11,7 @@ Hello! Welcome to the Hypotenuse Finder for a right triangle!  \
 Enter the length of side A: \
 3  \
 Enter the length of side B: \
-4  \
+4
 `
 The length of the hypotenuse is 5.00 (to 2 decimal places). Bye!
 ## Author
