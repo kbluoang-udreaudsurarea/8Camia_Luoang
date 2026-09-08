@@ -22,4 +22,5 @@ The lengths of the opposite and adjacent of the right triangle.
 `The length of the hypotenuse is 5.00 (to 2 decimal places). Bye!`
 ## Author
 Name: Luoang, Kyzen Mikko
+
 Section: 8 - Camia
