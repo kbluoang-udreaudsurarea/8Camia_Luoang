@@ -3,6 +3,8 @@
 This program gets the length of the adjacent and opposite sides of a right triangle and uses the Pythagorean Theorem in order to calculate the length of the hypotenuse to 2 decimal places.
 ## How to Run
 Open the file in an IDE with Python 3 support, and execute the file.
+Then, input each side's length when given the prompt.
+The final line displayed contains the result of the calculation
 ## Input Needed
 The lengths of the opposite and adjacent of the right triangle.
 ## Sample Output
